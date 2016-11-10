@@ -1,0 +1,2 @@
+# ActionFactory
+基于createjs实现的快速开发HTML5框架
